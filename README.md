@@ -43,8 +43,8 @@ Refer to the `docs` folder for additional information:
 ## Community and Support
 
 Join our community to discuss new features, share insights, and contribute to ringsCE’s development:
-- **Community Forum**: [community.ringsce.com](https://community.ringsce.com)
-- **Support Email**: support@ringsce.com
+- **Community Forum**: [community.ringsce.com](https://community.kreatyve.com)
+- **Support Email**: sales@gleentech.com
 
 ---
 
